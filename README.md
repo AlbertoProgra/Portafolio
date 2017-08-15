@@ -10,18 +10,13 @@
 ### Información de _C/U_ de los proyectos
 ```markdown
 
-## Proyecto 1 ->  Sitio web de un Restaurante
-## Proyecto 2 ->  Sitio web de una Agencia Publicitaria
-## Proyecto 3   ->  Sitio web de una Campaña Publicitaria 
+# Proyecto 1 ->  Sitio web de un Restaurante
+# Proyecto 2 ->  Sitio web de una Agencia Publicitaria
+# Proyecto 3 ->  Sitio web de una Campaña Publicitaria 
 
+
+
+
+Para más información al respecto puedes contactarme al siguiente correo: 
+[Gmail](gwichoo@galileo.edu)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlbertoProgra/Portafolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
