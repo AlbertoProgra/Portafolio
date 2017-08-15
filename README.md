@@ -9,7 +9,7 @@
 ### Información de C/U de los proyectos
 ```markdown
 
-- Bulleted Proyecto 1 -> Sitio web de un _Restaurante_
+Bulleted Proyecto 1 -> Sitio web de un _Restaurante_
 # Proyecto 2 -> Sitio web de una _Agencia Publicitaria_
 # Header 3 -> Sitio web de una _Campaña Publicitaria_ 
 
