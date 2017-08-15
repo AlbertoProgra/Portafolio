@@ -20,5 +20,5 @@
 
 
 Para más información escríbame al siguiente correo: 
-[Gmail](gwichoo@galileo.edu)
+(gwichoo@galileo.edu)
 ```
