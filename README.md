@@ -1,14 +1,13 @@
-## **¡Bienvenido!** `abajo encontraras los últimos enlaces a mis proyectos`
+## **¡ Bienvenido !** `abajo encontraras los últimos enlaces a mis proyectos`
 ```markdown
-[Haz click sobre ellos]
+(Haz click sobre ellos)
 ```
-
-
 1. [Proyecto - **The Tea Cozy**](https://albertoprogra.github.io/prj-rev-bwfs-tea-cozy/tea_cozy)
 
 2. [Proyecto - **Broadway**](https://albertoprogra.github.io/broadway/) 
 
 3. [Proyecto - **Excursion**](https://albertoprogra.github.io/excursion/)
+
 
 
 ### Información de _C/U_ de los proyectos
