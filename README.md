@@ -5,8 +5,10 @@ You can use the [editor on GitHub](https://github.com/AlbertoProgra/Portafolio/e
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
-[https://albertoprogra.github.io/prj-rev-bwfs-tea-cozy/tea_cozy]
+```markdown
+1. [Tea Cozy's Proyect](https://albertoprogra.github.io/prj-rev-bwfs-tea-cozy/tea_cozy)
+2.
+3.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
