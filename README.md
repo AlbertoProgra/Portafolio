@@ -1,4 +1,4 @@
-## **Bienvenido :) ** `abajo encontraras los últimos enlaces a mis proyectos`
+## **Bienvenido** `abajo encontraras los últimos enlaces a mis proyectos`
 
 1. [Proyecto - **The Tea Cozy**](https://albertoprogra.github.io/prj-rev-bwfs-tea-cozy/tea_cozy)
 
@@ -12,7 +12,7 @@
 
 ## Proyecto 1 ->  Sitio web de un _Restaurante_
 ## Proyecto 2 ->  Sitio web de una _Agencia Publicitaria_
-## Header 3   ->  Sitio web de una _Campaña Publicitaria_ 
+## Proyecto 3   ->  Sitio web de una _Campaña Publicitaria_ 
 
 ```
 
