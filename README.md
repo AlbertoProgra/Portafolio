@@ -1,7 +1,7 @@
-## **Bienvenido a mi Portafolio**, abajo encotraras los últimos enlaces a mis proyectos. :)
+## **Bienvenido** `abajo encotraras los últimos enlaces a mis proyectos` :)
 
-1. [Proyecto **The Tea Cozy**](https://albertoprogra.github.io/prj-rev-bwfs-tea-cozy/tea_cozy)
-2. [Proyecto **Broadway**](https://albertoprogra.github.io/broadway/)
+1. [Proyecto - **The Tea Cozy**](https://albertoprogra.github.io/prj-rev-bwfs-tea-cozy/tea_cozy)
+2. [Proyecto - **Broadway**](https://albertoprogra.github.io/broadway/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
