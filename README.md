@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [Proyecto uno **The Tea Cozy**](https://albertoprogra.github.io/prj-rev-bwfs-tea-cozy/tea_cozy) to maintain and preview the content for your website in Markdown files.
+You can use the 1. [Proyecto **The Tea Cozy**](https://albertoprogra.github.io/prj-rev-bwfs-tea-cozy/tea_cozy) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
