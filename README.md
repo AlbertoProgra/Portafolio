@@ -6,9 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 ```markdown
-1. [Tea Cozy's Proyect](https://albertoprogra.github.io/prj-rev-bwfs-tea-cozy/tea_cozy)
-2.
-3.
+[Tea Cozy's Proyect](https://albertoprogra.github.io/prj-rev-bwfs-tea-cozy/tea_cozy)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
