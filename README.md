@@ -1,6 +1,6 @@
 ## **¡ Bienvenido !** `abajo encontrarás los últimos enlaces a mis proyectos`
 ```markdown
-(Haz click sobre ellos)
+[](Haz click sobre ellos)
 ```
 1. [Proyecto - **The Tea Cozy**](https://albertoprogra.github.io/prj-rev-bwfs-tea-cozy/tea_cozy)
 
@@ -20,5 +20,5 @@
 
 
 Para más información escríbame al siguiente correo: 
-(gwichoo@galileo.edu)
+[](gwichoo@galileo.edu)
 ```
