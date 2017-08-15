@@ -1,31 +1,18 @@
-## **Bienvenido :)**  `Abajo encotraras los últimos enlaces a mis proyectos`
+## **Bienvenido :)** ` Abajo encontraras los últimos enlaces a mis proyectos`
 
 1. [Proyecto - **The Tea Cozy**](https://albertoprogra.github.io/prj-rev-bwfs-tea-cozy/tea_cozy)
-2. [Proyecto - **Broadway**](https://albertoprogra.github.io/broadway/)
+
+2. [Proyecto - **Broadway**](https://albertoprogra.github.io/broadway/) 
+
 3. [Proyecto - **Excursion**](https://albertoprogra.github.io/excursion/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Información de C/U de los proyectos
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- Bulleted Proyecto 1 -> Sitio web de un _Restaurante_
+# Proyecto 2 -> Sitio web de una _Agencia Publicitaria_
+# Header 3 -> Sitio web de una _Campaña Publicitaria_ 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
