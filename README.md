@@ -16,7 +16,6 @@
 
 
 
-Para más información contactame al correo: 
-
+Para más información escríbame al siguiente correo: 
 [Gmail](gwichoo@galileo.edu)
 ```
