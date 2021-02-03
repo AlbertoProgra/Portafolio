@@ -21,5 +21,5 @@
 
 
 Para más información escríbame al siguiente correo: 
-[->](gwichoo@galileo.edu)
+[->](la.hernandez.it@gmail.com)
 ```
