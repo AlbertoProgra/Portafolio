@@ -1,5 +1,5 @@
 ## **¡ Bienvenido !** 
-`abajo encontrarás algunos enlaces a mis proyectos`
+`Abajo encontrarás algunos enlaces a mis proyectos`
 ```markdown
 [->](Haz_click_sobre_ellos)
 ```
@@ -20,6 +20,6 @@
 
 
 
-Para más información escríbame al siguiente correo: 
+Para más información escríbeme a: 
 [->](la.hernandez.it@gmail.com)
 ```
